@@ -12,7 +12,13 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define MAX_ARRAY_SIZE			13	/* prime number */
+
+//test
+
+
+#define MAX_ARRAY_SIZE			13	 */tet
+
+
 #define MAX_HASH_TABLE_SIZE 	MAX_ARRAY_SIZE
 
 /* 필요에 따라 함수 추가 가능 */
